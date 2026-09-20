@@ -1,0 +1,13 @@
+# Editor / temporary files
+*.save
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.*
